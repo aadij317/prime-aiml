@@ -91,6 +91,29 @@
 
 
 
+#Q8.Let's create a Simple Calculator that performs arithmetic operations. 
+# Create a function calculator(a, b, operation) that performs 
+# addition, subtraction, multiplication, or division based on the operation parameter.
+
+# def calculator(a ,b, operation):
+#     if operation=='+':
+#         print("sum=" , a+b)
+#     elif operation=='-':
+#         print("subtraction=" , a-b)
+#     elif operation=='*':
+#         print("product=" , a*b)
+#     elif operation=='/':
+#         print("division=" , a/b)
+#     else:
+#         print("invalid operation")
+# calculator(2,3,"+")
+# calculator(2,3,"-")
+# calculator(2,3,"*")
+# calculator(2,3,"/")
+# calculator(2,3,"=")
+
+
+
 #Q9. Write a function is prime (n) 
 # that returns True if n is a prime number and False otherwise, using a loop.
 
